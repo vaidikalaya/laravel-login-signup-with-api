@@ -1,0 +1,18 @@
+.form-floating input[type=text], 
+.form-floating input[type=email], 
+.form-floating input[type=password], 
+.form-floating input[type=number]{
+    box-shadow: none !important;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    background: #ffffff;
+}
+
+.alert{
+    padding-top: 5px!important;
+    padding-bottom: 5px!important;
+    font-size: 18px!important;
+    margin-top: 26px!important;
+                        
+}
